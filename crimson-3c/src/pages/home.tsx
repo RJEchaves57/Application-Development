@@ -25,7 +25,7 @@ export default class Home extends Component {
             element={
               <main className="p-6 text-center">
                 <h1 className="text-2xl font-bold text-gray-800">Welcome to My Homepage</h1>
-                <p className="mt-4 text-gray-600">A simple single‑page React app.</p>
+                <p className="mt-4 text-gray-600">ReactJS News Wikipedia</p>
               </main>
             }
           />
